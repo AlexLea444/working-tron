@@ -1,0 +1,186 @@
+-- all messages logged in file hdlparser.log
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/standard.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/standard.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/standard.vhd(9): INFO: analyzing package 'standard' (VHDL-1014)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/std_1164.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/std_1164.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/std_1164.vhd(15): INFO: analyzing package 'std_logic_1164' (VHDL-1014)
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/std_1164.vhd(178): INFO: analyzing package body 'std_logic_1164' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/mgc_qsim.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/mgc_qsim.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/mgc_qsim.vhd(18): INFO: analyzing package 'qsim_logic' (VHDL-1014)
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/mgc_qsim.vhd(753): INFO: analyzing package body 'qsim_logic' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/numeric_bit.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/numeric_bit.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/numeric_bit.vhd(54): INFO: analyzing package 'numeric_bit' (VHDL-1014)
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/numeric_bit.vhd(834): INFO: analyzing package body 'numeric_bit' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/numeric_std.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/numeric_std.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/numeric_std.vhd(57): INFO: analyzing package 'numeric_std' (VHDL-1014)
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/numeric_std.vhd(874): INFO: analyzing package body 'numeric_std' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/textio.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/textio.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/textio.vhd(13): INFO: analyzing package 'textio' (VHDL-1014)
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/textio.vhd(114): INFO: analyzing package body 'textio' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/std_logic_textio.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/std_logic_textio.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/std_logic_textio.vhd(26): INFO: analyzing package 'std_logic_textio' (VHDL-1014)
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/std_logic_textio.vhd(72): INFO: analyzing package body 'std_logic_textio' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_attr.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_attr.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_attr.vhd(39): INFO: analyzing package 'attributes' (VHDL-1014)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_misc.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_misc.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_misc.vhd(30): INFO: analyzing package 'std_logic_misc' (VHDL-1014)
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_misc.vhd(182): INFO: analyzing package body 'std_logic_misc' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/math_real.vhd' (VHDL-1481)
+./.__tmp_vxr_0_(56): INFO: analyzing package 'math_real' (VHDL-1014)
+./.__tmp_vxr_0_(685): INFO: analyzing package body 'math_real' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/mixed_lang_vltype.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/mixed_lang_vltype.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/mixed_lang_vltype.vhd(9): INFO: analyzing package 'vl_types' (VHDL-1014)
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/mixed_lang_vltype.vhd(88): INFO: analyzing package body 'vl_types' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_arit.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_arit.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_arit.vhd(25): INFO: analyzing package 'std_logic_arith' (VHDL-1014)
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_arit.vhd(206): INFO: analyzing package body 'std_logic_arith' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_sign.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_sign.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_sign.vhd(35): INFO: analyzing package 'std_logic_signed' (VHDL-1014)
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_sign.vhd(96): INFO: analyzing package body 'std_logic_signed' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_unsi.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_unsi.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_unsi.vhd(35): INFO: analyzing package 'std_logic_unsigned' (VHDL-1014)
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/syn_unsi.vhd(94): INFO: analyzing package body 'std_logic_unsigned' (VHDL-1013)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/synattr.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/synattr.vhd
+C:/lscc/radiant/2022.1/ispfpga/vhdl_packages/synattr.vhd(50): INFO: analyzing package 'attributes' (VHDL-1014)
+-- Analyzing Verilog file 'C:/lscc/radiant/2022.1/cae_library/synthesis/verilog/iCE40UP.v' (VERI-1482)
+-- Analyzing Verilog file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/vga_pll/rtl/vga_pll.v' (VERI-1482)
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/cae_library/synthesis/vhdl/iCE40UP.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/cae_library/synthesis/vhdl/iCE40UP.vhd
+-- Analyzing VHDL file 'C:/lscc/radiant/2022.1/ip/pmi/pmi_iCE40UP.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/lscc/radiant/2022.1/ip/pmi/pmi_iCE40UP.vhd
+-- Analyzing VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/VGA_top.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/VGA_top.vhd
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/VGA_top.vhd(5): INFO: analyzing entity 'top_vga' (VHDL-1012)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/VGA_top.vhd(22): INFO: analyzing architecture 'synth' (VHDL-1010)
+-- Analyzing VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(5): INFO: analyzing entity 'pattern_gen' (VHDL-1012)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(39): INFO: analyzing architecture 'synth' (VHDL-1010)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(47): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(47): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(48): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(48): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(49): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(49): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(50): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(50): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(52): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(52): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(68): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(68): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(74): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(74): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(74): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(74): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(75): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(75): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(78): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(78): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(92): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(92): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(103): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(103): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(201): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(201): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(201): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(201): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(248): ERROR: unit 'synth' is ignored due to previous errors (VHDL-1284)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd(248): unit synth ignored due to previous errors. VHDL-1284
+-- VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/pattern_gen.vhd' is ignored due to errors (VHDL-1482)
+-- Analyzing VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(5): INFO: analyzing entity 'vga' (VHDL-1012)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(18): INFO: analyzing architecture 'synth' (VHDL-1010)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(25): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(25): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(26): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(26): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(29): ERROR: 0 definitions of operator "+" match here (VHDL-1052)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(29): 0 definitions of operator "+" match here. VHDL-1052
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(33): ERROR: 0 definitions of operator "+" match here (VHDL-1052)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(33): 0 definitions of operator "+" match here. VHDL-1052
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(37): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(37): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(37): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(37): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(39): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(39): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(39): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(39): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(41): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(41): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(41): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(41): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(43): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(43): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(46): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(46): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(45): ERROR: cannot read from 'out' object 'frame_clk'; use 'buffer' or 'inout' instead (VHDL-1033)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(45): cannot read from 'out' object frame_clk  use 'buffer' or 'inout'. VHDL-1033
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(45): ERROR: 'frame_clk' with mode 'out' cannot be read (VHDL-1359)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(45): frame_clk with mode 'out' cannot be read. VHDL-1359
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(44): ERROR: 'frame_clk' with mode 'out' cannot be read (VHDL-1359)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(44): frame_clk with mode 'out' cannot be read. VHDL-1359
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(54): ERROR: unit 'synth' is ignored due to previous errors (VHDL-1284)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd(54): unit synth ignored due to previous errors. VHDL-1284
+-- VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/vga.vhd' is ignored due to errors (VHDL-1482)
+-- Analyzing VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/animate.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/animate.vhd
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/animate.vhd(5): INFO: analyzing entity 'animate' (VHDL-1012)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/animate.vhd(21): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/animate.vhd(21): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/animate.vhd(22): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/animate.vhd(22): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/animate.vhd(24): ERROR: unit 'animate' is ignored due to previous errors (VHDL-1284)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/animate.vhd(24): unit animate ignored due to previous errors. VHDL-1284
+-- VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/animate.vhd' is ignored due to errors (VHDL-1482)
+-- Analyzing VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/bike_velocity.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/bike_velocity.vhd
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/bike_velocity.vhd(5): INFO: analyzing entity 'bike_velocity' (VHDL-1012)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/bike_velocity.vhd(18): INFO: analyzing architecture 'synth' (VHDL-1010)
+-- Analyzing VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(5): INFO: analyzing entity 'trail_memory' (VHDL-1012)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(18): INFO: analyzing architecture 'synth' (VHDL-1010)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(27): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(27): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(29): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(29): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(31): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(31): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(33): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(33): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(61): ERROR: unit 'synth' is ignored due to previous errors (VHDL-1284)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd(61): unit synth ignored due to previous errors. VHDL-1284
+-- VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/trail_memory.vhd' is ignored due to errors (VHDL-1482)
+-- Analyzing VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/velocity_decoder.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/velocity_decoder.vhd
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/velocity_decoder.vhd(5): INFO: analyzing entity 'velocity_decoder' (VHDL-1012)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/velocity_decoder.vhd(10): ERROR: this construct is only supported in VHDL 1076-2008 (VHDL-1576)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/velocity_decoder.vhd(10): this construct is only supported in VHDL 1076-2008. VHDL-1576
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/velocity_decoder.vhd(21): ERROR: unit 'velocity_decoder' is ignored due to previous errors (VHDL-1284)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/velocity_decoder.vhd(21): unit velocity_decoder ignored due to previous errors. VHDL-1284
+-- VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/velocity_decoder.vhd' is ignored due to errors (VHDL-1482)
+-- Analyzing VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/NES.vhd' (VHDL-1481)
+-- Analyzing VHDL file C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/NES.vhd
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/NES.vhd(6): INFO: analyzing entity 'nes' (VHDL-1012)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/NES.vhd(17): INFO: analyzing architecture 'synth' (VHDL-1010)
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/NES.vhd(44): ERROR: 0 definitions of operator "+" match here (VHDL-1052)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/NES.vhd(44): 0 definitions of operator "+" match here. VHDL-1052
+C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/NES.vhd(72): ERROR: unit 'synth' is ignored due to previous errors (VHDL-1284)
+ERROR - C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/NES.vhd(72): unit synth ignored due to previous errors. VHDL-1284
+-- VHDL file 'C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/source/impl_1/NES.vhd' is ignored due to errors (VHDL-1482)
+INFO: exit parsing due to analyzing error.

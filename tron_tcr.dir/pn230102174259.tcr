@@ -1,0 +1,5 @@
+#Start recording tcl command: 1/2/2023 17:42:07
+#Project Location: C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final); Project name: tron
+prj_open "C:/Users/Alexander Lea/Downloads/ES4_FINAL/final_project - Dec 8th 3_16PM (Demo Victory - final)/tron.rdf"
+prj_saveas -name "game" -dir "C:/Users/Alexander Lea/Downloads/vhdl-tron"
+#Stop recording: 1/2/2023 17:42:59
